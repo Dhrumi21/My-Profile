@@ -1,8 +1,8 @@
 # My-Profile
 <h2>👋 Hey there! I'm Dhrumi</h2>
 ### 👩🏻‍💻&nbsp;About Me
-💻 Data Analyst\ Tableau Developer\ PowerBI Developer\
-✉️ &nbsp;You can shoot me an email at dhrumip18@gmail.com!
+💻 Data Analyst\ Tableau Developer\ PowerBI Developer\ 
+✉️ &nbsp;You can shoot me an email at dhrumip18@gmail.com 
 
 <img alt="coding" src="./assets/coding.gif" align="right" style="height: 35%;width: 25%"/>
 
@@ -29,6 +29,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https:www.linkedin.com/in/"><img src="https://img.shields.io/badge/-Dhrumi%20Patel-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https:www.linkedin.com/in/dhrumip/"><img src="https://img.shields.io/badge/-Dhrumi%20Patel-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dhrumip18@gmail.com"><img src="https://img.shields.io/badge/-Dhrumi%20Patel-red?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
