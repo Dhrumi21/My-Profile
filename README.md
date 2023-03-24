@@ -29,6 +29,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://bit.ly/3K0mka5"><img src="https://img.shields.io/badge/-dhrumi%20Patel-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https:www.linkedin.com/in/"><img src="https://img.shields.io/badge/-Dhrumi%20Patel-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dhrumip18@gmail.com"><img src="https://img.shields.io/badge/-Dhrumi%20Patel-red?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
