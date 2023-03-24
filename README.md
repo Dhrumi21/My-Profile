@@ -1,9 +1,7 @@
 # My-Profile
 <h2>👋 Hey there! I'm Dhrumi</h2>
 ### 👩🏻‍💻&nbsp;About Me
-💻 Data Analyst\ Tableau Developer\ PowerBI Developer
-💡 &nbsp;I like to explore new technologies.\
-🌱 &nbsp;I'm on track for learning more about Data, EDA, and Statistics.\
+💻 Data Analyst\ Tableau Developer\ PowerBI Developer\
 ✉️ &nbsp;You can shoot me an email at dhrumip18@gmail.com!
 
 <img alt="coding" src="./assets/coding.gif" align="right" style="height: 35%;width: 25%"/>
