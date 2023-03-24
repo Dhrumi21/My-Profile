@@ -1,7 +1,6 @@
 # My-Profile
 <h2>👋 Hey there! I'm Dhrumi</h2>
-
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻&nbsp;About Me
 💻 Data Analyst\ Tableau Developer\ PowerBI Developer
 💡 &nbsp;I like to explore new technologies.\
 🌱 &nbsp;I'm on track for learning more about Data, EDA, and Statistics.\
