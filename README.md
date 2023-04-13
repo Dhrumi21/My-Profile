@@ -1,4 +1,4 @@
-# My-Profile
+# My Profile
 <h2>👋 Hey there! I'm Dhrumi</h2>
 <br> 👩🏻‍💻&nbsp;About Me 
 <br> 💻 Data Analyst\ Tableau Developer\ PowerBI Developer
